@@ -13,7 +13,17 @@ class TForm1 : public TForm
 {
 __published:	// Composants gérés par l'EDI
 	TButton *INITIALISATION;
+	TButton *RAZ;
+	TButton *Sortie_10V;
+	TButton *Sortie_5V;
+	TButton *Sortie_0V;
+	TButton *Affichage;
 	void __fastcall INITIALISATIONClick(TObject *Sender);
+	void __fastcall RAZClick(TObject *Sender);
+	void __fastcall Sortie_10VClick(TObject *Sender);
+	void __fastcall Sortie_5VClick(TObject *Sender);
+	void __fastcall Sortie_0VClick(TObject *Sender);
+	void __fastcall AffichageClick(TObject *Sender);
 private:	// Déclarations utilisateur
 public:		// Déclarations utilisateur
 	__fastcall TForm1(TComponent* Owner);

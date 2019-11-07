@@ -10,6 +10,7 @@
 
 class C9111
 {
+	private :
 
 
 
