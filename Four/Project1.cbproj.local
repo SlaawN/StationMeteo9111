@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/04 15:05:47.000.839,=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/12/04 15:05:47.000.820,=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2018/12/04 15:10:16.000.129,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.cpp=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/12/04 15:10:16.000.129,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.dfm=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2018/12/04 15:10:16.000.129,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.h=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2018/12/04 15:10:24.000.278,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\IHMfour.dfm=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.dfm</Transaction>
+    <Transaction>2018/12/04 15:10:24.000.278,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\IHMfour.h=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.h</Transaction>
+    <Transaction>2018/12/04 15:10:24.000.278,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\IHMfour.cpp=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.cpp</Transaction>
+    <Transaction>2018/12/04 15:10:31.000.825,=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/12/04 15:10:52.000.128,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.cpp=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2018/12/04 15:10:52.000.128,C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.h=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Unit1.h</Transaction>
+    <Transaction>2018/12/04 15:15:17.000.963,C:\Users\Administrateur\Pictures\four\four.cpp=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.cpp</Transaction>
+    <Transaction>2018/12/04 15:15:17.000.963,C:\Users\Administrateur\Pictures\four\four.h=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\four.h</Transaction>
+    <Transaction>2018/12/04 15:15:18.000.845,C:\Users\Administrateur\Pictures\four\IHMfour.h=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\IHMfour.h</Transaction>
+    <Transaction>2018/12/04 15:15:18.000.845,C:\Users\Administrateur\Pictures\four\IHMfour.cpp=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\IHMfour.cpp</Transaction>
+    <Transaction>2018/12/04 15:15:18.000.845,C:\Users\Administrateur\Pictures\four\IHMfour.dfm=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\IHMfour.dfm</Transaction>
+    <Transaction>2018/12/04 15:15:19.000.728,C:\Users\Administrateur\Pictures\four\Project1PCH1.h=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2018/12/04 15:15:20.000.927,C:\Users\Administrateur\Pictures\four\Project1.cbproj=C:\Users\Administrateur\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2018/12/04 15:16:53.000.618,=C:\Users\Administrateur\Pictures\four\lib\pdask_bc.lib</Transaction>
+    <Transaction>2019/04/24 09:10:20.000.612,=C:\Users\Administrateur\Pictures\four\libmysql.lib</Transaction>
+    <Transaction>2019/04/24 09:10:27.000.292,=C:\Users\Administrateur\Pictures\four\Unit1.cpp</Transaction>
+    <Transaction>2019/04/24 09:11:14.000.396,C:\Users\Administrateur\Pictures\four\Unit1.cpp=C:\Users\Administrateur\Pictures\four\mysql.cpp</Transaction>
+    <Transaction>2019/04/24 09:11:14.000.396,C:\Users\Administrateur\Pictures\four\Unit1.h=C:\Users\Administrateur\Pictures\four\mysql.h</Transaction>
+    <Transaction>2019/05/20 10:43:30.000.660,C:\Users\Administrateur\Pictures\four\lib\PCI-Dask.lib=C:\Users\Administrateur\Pictures\four\lib\pdask_bc.lib</Transaction>
+    <Transaction>2019/05/20 10:43:30.000.690,C:\Users\Administrateur\Pictures\four\lib\pdask_bc.lib=C:\Users\Administrateur\Pictures\four\lib\PCI-Dask.lib</Transaction>
+    <Transaction>2019/11/25 15:21:56.000.874,C:\Users\Administrateur\Pictures\four\mysql.cpp=</Transaction>
+    <Transaction>2019/11/25 15:22:31.000.245,C:\Users\Administrateur\Pictures\four\libmysql.lib=</Transaction>
+    <Transaction>2020/01/06 15:24:03.230,D:\SN2\TP SYSTEMES A GIT\four\PILOTFOUR.h=D:\SN2\TP SYSTEMES A GIT\four\four.h</Transaction>
+    <Transaction>2020/01/06 15:24:03.230,D:\SN2\TP SYSTEMES A GIT\four\PILOTFOUR.cpp=D:\SN2\TP SYSTEMES A GIT\four\four.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
