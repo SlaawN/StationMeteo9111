@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/14 17:21:12.000.241,=C:\Users\BeaZ\Documents\Embarcadero\Studio\Projets\Unit1.cpp</Transaction>
+    <Transaction>2019/10/14 17:21:12.000.227,=C:\Users\BeaZ\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2019/10/14 17:22:01.000.494,C:\Users\BeaZ\Documents\Embarcadero\Studio\Projets\Unit1.h=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Carte_K8055.h</Transaction>
+    <Transaction>2019/10/14 17:22:01.000.494,C:\Users\BeaZ\Documents\Embarcadero\Studio\Projets\Unit1.dfm=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Carte_K8055.dfm</Transaction>
+    <Transaction>2019/10/14 17:22:01.000.494,C:\Users\BeaZ\Documents\Embarcadero\Studio\Projets\Unit1.cpp=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Carte_K8055.cpp</Transaction>
+    <Transaction>2019/10/14 17:22:38.000.185,C:\Users\BeaZ\Documents\Embarcadero\Studio\Projets\Project1PCH1.h=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\TP4meteovellman.h</Transaction>
+    <Transaction>2019/10/14 17:22:51.000.217,C:\Users\BeaZ\Documents\Embarcadero\Studio\Projets\Project1.cbproj=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Vellman.cbproj</Transaction>
+    <Transaction>2019/10/14 17:23:37.000.749,=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Unit1.cpp</Transaction>
+    <Transaction>2019/10/14 17:24:00.000.870,C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Unit1.h=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Fonction.h</Transaction>
+    <Transaction>2019/10/14 17:24:00.000.870,C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Unit1.cpp=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Fonction.cpp</Transaction>
+    <Transaction>2019/10/18 10:23:40.000.057,=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\k8055d.lib</Transaction>
+    <Transaction>2019/10/18 10:23:40.000.049,=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\K8055D.h</Transaction>
+    <Transaction>2019/10/18 10:30:44.000.831,C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\K8055D.h=</Transaction>
+    <Transaction>2019/10/18 10:30:56.000.919,C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\k8055d.lib=</Transaction>
+    <Transaction>2019/10/18 10:32:34.000.721,=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\k8055d.lib</Transaction>
+    <Transaction>2019/10/18 10:32:34.000.714,=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\K8055D.h</Transaction>
+    <Transaction>2019/10/18 10:32:41.000.875,=C:\Users\BeaZ\Desktop\TP Systeme\TP4 Station météo K8055\C++\Win32\Debug\K8055D.dll</Transaction>
+  </Transactions>
+</BorlandProject>
