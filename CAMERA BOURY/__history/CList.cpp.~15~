@@ -1,0 +1,89 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "CList.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+/*
+unsigned char CommandList::trame(unsigned char) {
+
+unsigned char * trame_encours = new unsigned char[10];
+
+trame_encours[0] = 0x81;
+
+trame_encours[0]="8101040002ff"; //Allumer la caméra
+trame_encours[1]="8101040003ff"; //Éteindre la caméra
+trame_encours[2]="8101040700ff"; //Arréter le zoom
+trame_encours[3]="8101040732ff"; //Dézoomer
+trame_encours[4]="8101040723ff"; //Zoomer
+trame_encours[5]="8101060105050303ff"; // Arreter le deplacement
+trame_encours[6]="8101060105050301ff"; //Monter la camera
+trame_encours[7]="8101060105050302ff"; //Descendre la camera
+trame_encours[8]="8101060105050203ff"; //Camera a droite
+trame_encours[9]="8101060105050103ff"; //Camera a gauche
+trame_encours[10]='\0'
+}
+*/
+unsigned char * CList::allumer(unsigned char value)  //Allumage de la caméra
+{
+	unsigned char * trame = new unsigned char[6];
+
+	trame[0] = 0x81;
+	trame[1] = 0x01;
+	trame[2] = 0x04;
+	trame[3] = 0x00;
+	trame[4] = value;
+	trame[5] = 0xff;
+
+	return trame;
+}
+unsigned char * CList::zoom(unsigned char value)//Zoom Avant et Arrière
+{
+	unsigned char * trame = new unsigned char[6];
+
+	trame[0] = 0x81;
+	trame[1] = 0x01;
+	trame[2] = 0x04;
+	trame[3] = 0x07;
+	trame[4] = value;
+	trame[5] = 0xff;
+
+	return trame;
+
+}
+unsigned char * CList::deplaceY(unsigned char value)//Déplacement sur l'axe Y : Haut et Bas
+{
+	unsigned char * trame = new unsigned char[9];
+
+	trame[0] = 0x81;
+	trame[1] = 0x01;
+	trame[2] = 0x06;
+	trame[3] = 0x01;
+	trame[4] = 0x05;
+	trame[5] = 0x05;
+	trame[6] = 0x03;
+	trame[7] = value;
+	trame[8] = 0xff;
+
+	return trame;
+
+}
+
+unsigned char * CList::deplaceX(unsigned char value)//Déplacement sur l'axe X : Droite et Gauche
+{
+	unsigned char * trame = new unsigned char[9];
+
+	trame[0] = 0x81;
+	trame[1] = 0x01;
+	trame[2] = 0x06;
+	trame[3] = 0x01;
+	trame[4] = 0x05;
+	trame[5] = 0x05;
+	trame[6] = value;
+	trame[7] = 0x03;
+	trame[8] = 0xff;
+
+	return trame;
+
+}
